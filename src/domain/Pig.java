@@ -2,7 +2,7 @@ package domain;
 
 public class Pig extends Predator {
 	
-	private static final String DEFAULT_KIND = "A pig";
+	private static final String DEFAULT_KIND = "Large black pig";
 	
 	private String kind;
 	
