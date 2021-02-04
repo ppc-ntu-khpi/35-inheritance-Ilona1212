@@ -42,6 +42,6 @@ public class Pig extends Predator {
     
     @Override
     public String toString() {
-    	return super.toString() + "\nKind:\t" + kind + "\n\nLarge black pig ;)";
+    	return super.toString() + "\nKind:\t" + kind + "\n\nA pig ;)";
     }
 }
