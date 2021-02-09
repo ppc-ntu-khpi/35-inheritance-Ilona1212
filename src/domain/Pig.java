@@ -1,6 +1,6 @@
 package domain;
 
-public class Pig extends Predator {
+public class Pig extends Domestic animals {
 	
 	private static final String DEFAULT_KIND = "Large black pig";
 	
